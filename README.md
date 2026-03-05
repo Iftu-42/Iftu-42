@@ -47,5 +47,5 @@ I enjoy connecting **creativity, logic, and technology** to build meaningful dig
 
 <p align="center">
   <i>"Curiosity is my favorite programming language."</i><br>
-  <b>Let's build something amazing together!</b>
+
 </p>
