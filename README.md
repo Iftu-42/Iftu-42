@@ -28,8 +28,7 @@ I thrive at the intersection of **logic and creativity**. Whether I'm debugging 
 | :--- | :--- |
 | **Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe CC](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white) |
-| **Content** | ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![OBS](https://img.shields.io/badge/OBS-333e4f?style=flat-square&logo=obs-studio&logoColor=white) |
-
+| **Content** | ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=tiktok&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white) |
 ---
 
 ### 📊 GitHub Insights
