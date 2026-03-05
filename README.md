@@ -50,6 +50,9 @@ I thrive at the intersection of **logic and creativity**. Whether I'm debugging 
 <a href="https://www.tiktok.com/@ielts_ethiopia" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="Iftu TikTok" height="30" width="30" /></a>
 </p>
 
----
 
-<p align="center
+
+<p align="center">
+  <i>"Curiosity is my favorite programming language."</i><br>
+
+</p>
