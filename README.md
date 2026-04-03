@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Tech+Explorer+🚀;Web+Developer+💻;Data+Science+Enthusiast+📊;Competitive+Programmer+🧠;Graphic+Designer+🎨;Content+Creator+🎥;IELTS+Couch+📚;"/>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iftu-42&label=Profile%20views&color=F78DA7&style=flat-square" alt="Iftu-42" />
