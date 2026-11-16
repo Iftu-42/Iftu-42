@@ -19,7 +19,7 @@ I'm interested in creating digital experiences that are functional, thoughtful, 
 - 🎨 Interested in graphic design, typography, visual communication, and interface design.
 - 🎬 Exploring motion graphics, short-form animation, and video editing.
 - ⚙️ Interested in automation and using technology to simplify everyday processes.
-- 📚 Founder and Trainer at [IELTS Ethiopia](https://t.me/ielts_ethiopia).
+- 📚 Founder and Trainer at [IELTS Ethiopia](https://t.me/ielts_ethiopia1).
 
 ---
 
