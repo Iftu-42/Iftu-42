@@ -29,9 +29,7 @@
 
 <a name="about"></a>
 <img src="https://img.shields.io/badge/01_%2F_ABOUT_ME-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="01 About Me" />
-
 <br/><br/>
-
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -190,7 +188,7 @@ Whether you want to collaborate on **visual design**, **technical documentation*
 <a href="https://github.com/Iftu-42">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://t.me/ielts_ethiopia">
+<a href="https://t.me/ieltsethiopia1">
   <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
 </a>
 
