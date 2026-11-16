@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Website Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,100:1E293B&height=175&section=header&text=IFTU%20(ZUHAL)%20CHALA&fontSize=36&fontColor=F8FAFC&fontAlignY=38&desc=Visual%20Designer%20%C2%B7%20Technical%20Documenter%20%C2%B7%20IELTS%20Trainer%20%C2%B7%20Software%20Engineer&descSize=14&descColor=38BDF8&descAlignY=63&animation=fadeIn" width="100%" alt="Hero Header" />
+<!-- Website Hero Header (100% Reliable) -->
+<br/>
+<h1>IFTU (ZUHAL) CHALA</h1>
+<img src="https://img.shields.io/badge/VISUAL_DESIGNER_%C2%B7_TECHNICAL_DOCUMENTER_%C2%B7_IELTS_TRAINER_%C2%B7_SOFTWARE_ENGINEER-0F172A?style=for-the-badge&labelColor=38BDF8" alt="Roles"/>
+
+<br/><br/>
 
 <!-- Website Navigation Bar -->
 <p align="center">
@@ -14,7 +18,7 @@
 
 <!-- Smooth Animated Tagline -->
 <a href="https://github.com/Iftu-42">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=4800&pause=1800&color=38BDF8&center=true&vCenter=true&width=760&lines=Designing+visuals+and+interfaces+that+speak+clearly.;Structuring+complex+ideas+into+sharp+documentation.;Coaching+students+at+IELTS+Ethiopia+to+succeed.;Bridging+the+gap+between+education+and+technology." alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4800&pause=1800&color=38BDF8&center=true&vCenter=true&width=720&lines=Designing+visuals+and+interfaces+that+speak+clearly.;Structuring+complex+ideas+into+sharp+documentation.;Coaching+students+at+IELTS+Ethiopia+to+succeed.;Bridging+the+gap+between+education+and+technology." alt="Typing Tagline" />
 </a>
 
 </div>
@@ -22,9 +26,9 @@
 ---
 
 <a name="about"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=15&fontColor=38BDF8&fontAlign=12&fontAlignY=52" width="100%" alt="01 About Me" />
+<img src="https://img.shields.io/badge/01_%2F_ABOUT_ME-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="01 About Me" />
 
-<br/>
+<br/><br/>
 
 <table width="100%">
   <tr>
@@ -60,9 +64,9 @@
 ---
 
 <a name="what-i-do"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=02%20%2F%20WHAT%20I%20DO%20(CORE%20STRENGTHS)&fontSize=15&fontColor=38BDF8&fontAlign=19&fontAlignY=52" width="100%" alt="02 What I Do" />
+<img src="https://img.shields.io/badge/02_%2F_WHAT_I_DO_(CORE_STRENGTHS)-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="02 What I Do" />
 
-<br/>
+<br/><br/>
 
 <table width="100%">
   <tr>
@@ -98,14 +102,14 @@
 ---
 
 <a name="toolkit"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=03%20%2F%20CREATIVE%20%26%20TECHNICAL%20TOOLKIT&fontSize=15&fontColor=38BDF8&fontAlign=20&fontAlignY=52" width="100%" alt="03 Toolkit" />
+<img src="https://img.shields.io/badge/03_%2F_CREATIVE_%26_TECHNICAL_TOOLKIT-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="03 Toolkit" />
 
-<br/>
+<br/><br/>
 
 <table width="100%">
   <tr>
-    <td width="30%"><strong>01 · Design & Video</strong></td>
-    <td width="70%">
+    <td nowrap><strong>01 · Design & Video</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
       <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut"/>
@@ -113,9 +117,9 @@
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>02 · Docs & Research</strong></td>
-    <td width="70%">
-      <img src="https://img.shields.io/badge/SRS%20Documentation-1E293B?style=flat-square&logo=readthedocs&logoColor=white" alt="SRS"/>
+    <td nowrap><strong>02 · Docs & Research</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/SRS%20Docs-1E293B?style=flat-square&logo=readthedocs&logoColor=white" alt="SRS"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
       <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Draw.io"/>
       <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
@@ -123,8 +127,8 @@
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>03 · Web & Languages</strong></td>
-    <td width="70%">
+    <td nowrap><strong>03 · Web & Languages</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -134,8 +138,8 @@
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>04 · Dev & Data Tools</strong></td>
-    <td width="70%">
+    <td nowrap><strong>04 · Dev & Data Tools</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -147,9 +151,9 @@
 ---
 
 <a name="problem-solving"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=04%20%2F%20PROBLEM%20SOLVING%20%26%20ALGORITHMS&fontSize=15&fontColor=38BDF8&fontAlign=19&fontAlignY=52" width="100%" alt="04 Problem Solving" />
+<img src="https://img.shields.io/badge/04_%2F_PROBLEM_SOLVING_%26_ALGORITHMS-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="04 Problem Solving" />
 
-<br/>
+<br/><br/>
 
 <table width="100%">
   <tr>
@@ -168,9 +172,9 @@
 ---
 
 <a name="connect"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=05%20%2F%20LET'S%20CONNECT&fontSize=15&fontColor=38BDF8&fontAlign=13&fontAlignY=52" width="100%" alt="05 Connect" />
+<img src="https://img.shields.io/badge/05_%2F_LET'S_CONNECT-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="05 Connect" />
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -184,13 +188,13 @@ Whether you want to collaborate on **visual design**, **technical documentation*
 <a href="https://github.com/Iftu-42">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://t.me/ielts_ethiopia1">
+<a href="https://t.me/ielts_ethiopia">
   <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
 </a>
 
 <br/><br/>
 
-<!-- Website Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,100:1E293B&height=70&section=footer&text=Clarity%20in%20design.%20Structure%20in%20documentation.%20Purpose%20in%20teaching.&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" alt="Footer Banner" />
+<!-- Reliable Footer -->
+<sub><strong>Clarity in design · Structure in documentation · Purpose in teaching</strong></sub>
 
 </div>
