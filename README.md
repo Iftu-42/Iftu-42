@@ -22,7 +22,7 @@
 <a href="https://github.com/Iftu-42">
  
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4800&pause=1800&color=38BDF8&center=true&vCenter=true&width=720&lines=Bridging+the+gap+between+education+and+technology.;Designing+visuals+and+interfaces+that+speak+clearly.;Structuring+complex+ideas+into+sharp+documentation.;Coaching+students+at+IELTS+Ethiopia+to+succeed." alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4800&pause=1800&color=38BDF8&center=false&vCenter=true&width=720&lines=Bridging+the+gap+between+education+and+technology.;Designing+visuals+and+interfaces+that+speak+clearly.;Structuring+complex+ideas+into+sharp+documentation.;Coaching+students+at+IELTS+Ethiopia+to+succeed." alt="Typing Tagline" />
 </div>
 
 </a>
