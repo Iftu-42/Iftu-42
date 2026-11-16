@@ -1,75 +1,129 @@
 <div align="center">
 
-<!-- Sharp Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&section=header&text=IFTU%20(ZUHAL)%20CHALA&fontSize=34&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Engineering%20%C2%B7%20IELTS%20Coach%20%C2%B7%20Visual%20Design&descSize=15&descColor=38BDF8&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
+<!-- Website Hero Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,100:1E293B&height=175&section=header&text=IFTU%20(ZUHAL)%20CHALA&fontSize=36&fontColor=F8FAFC&fontAlignY=38&desc=Visual%20Designer%20%C2%B7%20Technical%20Documenter%20%C2%B7%20IELTS%20Trainer%20%C2%B7%20Software%20Engineer&descSize=14&descColor=38BDF8&descAlignY=63&animation=fadeIn" width="100%" alt="Hero Header" />
 
-<br/>
+<!-- Website Navigation Bar -->
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/01_ABOUT-0F172A?style=for-the-badge" alt="About"/></a>
+  <a href="#what-i-do"><img src="https://img.shields.io/badge/02_WHAT_I_DO-0F172A?style=for-the-badge" alt="What I Do"/></a>
+  <a href="#toolkit"><img src="https://img.shields.io/badge/03_TOOLKIT-0F172A?style=for-the-badge" alt="Toolkit"/></a>
+  <a href="#problem-solving"><img src="https://img.shields.io/badge/04_LEETCODE-0F172A?style=for-the-badge" alt="LeetCode"/></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/05_CONNECT-38BDF8?style=for-the-badge&logoColor=black" alt="Connect"/></a>
+</p>
 
+<!-- Smooth Animated Tagline -->
 <a href="https://github.com/Iftu-42">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4800&pause=1800&color=38BDF8&center=true&vCenter=true&width=740&lines=Bridging+the+gap+between+education+and+technology.;Founder+%26+Trainer+at+IELTS+Ethiopia.;Researching+systems+deeply+before+writing+code.;Crafting+clean+interfaces+and+visual+designs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=4800&pause=1800&color=38BDF8&center=true&vCenter=true&width=760&lines=Designing+visuals+and+interfaces+that+speak+clearly.;Structuring+complex+ideas+into+sharp+documentation.;Coaching+students+at+IELTS+Ethiopia+to+succeed.;Bridging+the+gap+between+education+and+technology." alt="Typing Tagline" />
 </a>
 
 </div>
 
 ---
 
-### `01 /` About me
+<a name="about"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=15&fontColor=38BDF8&fontAlign=12&fontAlignY=52" width="100%" alt="01 About Me" />
 
-Hi, I'm **Iftu** — a Software Engineering student who enjoys figuring out *why* something needs to be built just as much as *how* to build it. 
-
-When I take on a project, I don't jump straight into an editor. I like digging into the problem first: researching how users actually behave, mapping out edge cases, and writing clear **Software Requirements Specifications (SRS)** so the architecture makes sense from day one. On the other side of my work, I care deeply about visual design, typography, and making digital tools feel intuitive and human.
-
-Outside of university and coding, I run **IELTS Ethiopia**, where I teach and build practical learning resources for students.
-
-- 🎓 **Studying:** Software Engineering
-- 📐 **Engineering Strength:** Requirements Engineering, System Analysis & SRS Documentation
-- 💻 **Building:** Full-stack web fundamentals, Python, and C++
-- 🧠 **Practicing:** Data structures, algorithms, and SQL
-- 🎨 **Designing:** UI/UX layouts, typography, brand visuals, and short-form video editing
-- 📚 **Teaching:** Founder & Trainer at **IELTS Ethiopia**
-
----
-
-### `02 /` Core focus areas
+<br/>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>01 — REQUIREMENTS & ARCHITECTURE</strong><br/>
-      <strong>System Analysis & SRS Documentation</strong><br/><br/>
-      Conducting domain research, defining functional and non-functional requirements, modeling user flows, and authoring structured SRS blueprints.<br/><br/>
-      <code>SRS Documentation</code> · <code>Requirements Gathering</code> · <code>System Design</code> · <code>UML</code>
+    <td width="55%" valign="top">
+      <img src="https://img.shields.io/badge/PROFILE_OVERVIEW-38BDF8?style=flat-square" alt="Overview"/><br/><br/>
+      <strong>Hi, I'm Iftu (Zuhal) Chala.</strong><br/><br/>
+      I work where creative design, structured documentation, and education meet.<br/><br/>
+      Whether I'm designing a visual identity, editing short-form video, authoring an SRS blueprint, or coaching students at <strong>IELTS Ethiopia</strong>, my focus stays the same: <strong>turning complex ideas into clear, human-centered experiences.</strong><br/><br/>
+      <blockquote>
+        <em>"Good design, clear documentation, and effective teaching all solve the same problem—making the complex effortless to understand."</em>
+      </blockquote>
     </td>
-    <td width="50%" valign="top">
-      <strong>02 — SOFTWARE DEVELOPMENT</strong><br/>
-      <strong>Web & Application Engineering</strong><br/><br/>
-      Translating clear specifications into responsive, maintainable, and well-structured applications.<br/><br/>
-      <code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>Python</code> · <code>C++</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 — ALGORITHMS & DATA</strong><br/>
-      <strong>Problem Solving & Querying</strong><br/><br/>
-      Strengthening logical reasoning through algorithmic challenges, relational databases, and data exploration.<br/><br/>
-      <code>Data Structures</code> · <code>Algorithms</code> · <code>SQL</code> · <code>Google Colab</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 — VISUAL & MEDIA DESIGN</strong><br/>
-      <strong>Interface Design & Video Editing</strong><br/><br/>
-      Crafting clean interfaces, visual identities, and engaging short-form video content.<br/><br/>
-      <code>Figma</code> · <code>Canva</code> · <code>CapCut</code> · <code>Typography</code> · <code>Motion</code>
+    <td width="45%" valign="top">
+      <img src="https://img.shields.io/badge/CORE_PILLARS-1E293B?style=flat-square" alt="Core Pillars"/><br/><br/>
+      <table width="100%">
+        <tr>
+          <td><strong>01 · Visual Design</strong><br/><sub>Brand graphics, UI/UX layouts & video editing</sub></td>
+        </tr>
+        <tr>
+          <td><strong>02 · Documentation</strong><br/><sub>System research & SRS specifications</sub></td>
+        </tr>
+        <tr>
+          <td><strong>03 · IELTS Coaching</strong><br/><sub>Founder & Trainer at IELTS Ethiopia</sub></td>
+        </tr>
+        <tr>
+          <td><strong>04 · Engineering</strong><br/><sub>Web development & algorithmic problem solving</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 ---
 
-### `03 /` Technical & creative stack
+<a name="what-i-do"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=02%20%2F%20WHAT%20I%20DO%20(CORE%20STRENGTHS)&fontSize=15&fontColor=38BDF8&fontAlign=19&fontAlignY=52" width="100%" alt="02 What I Do" />
+
+<br/>
 
 <table width="100%">
   <tr>
-    <td width="30%"><strong>Languages & Core</strong></td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/01_%E2%80%A2_PRIMARY_STRENGTH-38BDF8?style=flat-square" alt="01"/><br/><br/>
+      <strong>Graphic Design, Visuals & Video Editing</strong><br/><br/>
+      Designing clean user interfaces, brand graphics, typography systems, and engaging short-form videos that capture attention and communicate ideas visually.<br/><br/>
+      <code>Figma</code> · <code>Canva</code> · <code>CapCut</code> · <code>UI/UX</code> · <code>Typography</code> · <code>Visual Storytelling</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/02_%E2%80%A2_DOCUMENTATION_%26_RESEARCH-1E293B?style=flat-square" alt="02"/><br/><br/>
+      <strong>Technical Documentation & System Analysis</strong><br/><br/>
+      Conducting thorough domain research, identifying real requirements, and authoring structured SRS documents and system workflows.<br/><br/>
+      <code>SRS Documentation</code> · <code>Requirements Analysis</code> · <code>Notion</code> · <code>UML</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/03_%E2%80%A2_EDUCATION_%26_COACHING-1E293B?style=flat-square" alt="03"/><br/><br/>
+      <strong>IELTS Coaching & Learning Design</strong><br/><br/>
+      Founder & Trainer at <strong>IELTS Ethiopia</strong>—simplifying exam strategies, mentoring students, and building accessible educational resources.<br/><br/>
+      <code>IELTS Training</code> · <code>Curriculum Design</code> · <code>Public Speaking</code> · <code>EdTech</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/04_%E2%80%A2_DEVELOPMENT_%26_LOGIC-1E293B?style=flat-square" alt="04"/><br/><br/>
+      <strong>Web Development & Problem Solving</strong><br/><br/>
+      Building functional web experiences and sharpening analytical thinking through daily algorithmic challenges and database querying.<br/><br/>
+      <code>HTML/CSS/JS</code> · <code>Python</code> · <code>C++</code> · <code>SQL</code> · <code>Algorithms</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a name="toolkit"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=03%20%2F%20CREATIVE%20%26%20TECHNICAL%20TOOLKIT&fontSize=15&fontColor=38BDF8&fontAlign=20&fontAlignY=52" width="100%" alt="03 Toolkit" />
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="30%"><strong>01 · Design & Video</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+      <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut"/>
+      <img src="https://img.shields.io/badge/Video%20Editors-FF4F64?style=flat-square&logo=youtube&logoColor=white" alt="Video Editors"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>02 · Docs & Research</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/SRS%20Documentation-1E293B?style=flat-square&logo=readthedocs&logoColor=white" alt="SRS"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+      <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Draw.io"/>
+      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
+      <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Workspace"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>03 · Web & Languages</strong></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
@@ -80,48 +134,63 @@ Outside of university and coding, I run **IELTS Ethiopia**, where I teach and bu
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>Requirements & Analysis</strong></td>
-    <td width="70%">
-      <img src="https://img.shields.io/badge/SRS%20Documentation-1E293B?style=flat-square&logo=readthedocs&logoColor=white" alt="SRS"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-      <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Draw.io"/>
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>Design & Video Editing</strong></td>
-    <td width="70%">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
-      <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut"/>
-      <img src="https://img.shields.io/badge/Video%20Editors-FF4F64?style=flat-square&logo=youtube&logoColor=white" alt="Video Editors"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>Developer Workflow</strong></td>
+    <td width="30%"><strong>04 · Dev & Data Tools</strong></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### `04 /` Connect
+<a name="problem-solving"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=04%20%2F%20PROBLEM%20SOLVING%20%26%20ALGORITHMS&fontSize=15&fontColor=38BDF8&fontAlign=19&fontAlignY=52" width="100%" alt="04 Problem Solving" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/iftu-chala-14b013318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Iftu-42">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/ielts_ethiopia1">
-    <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=65&section=footer&text=Think%20clearly.%20Build%20thoughtfully.%20Create%20with%20purpose.&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" alt="Footer Banner" />
+<table width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <strong>Algorithmic Practice & Logical Thinking</strong><br/>
+      <sub>Strong visual design and clear documentation rely on structured thinking. Alongside my creative and educational work, I practice breaking down algorithmic challenges and writing clean solutions in <strong>Python</strong> and <strong>C++</strong>.</sub>
+    </td>
+    <td width="35%" align="right" valign="middle">
+      <a href="https://github.com/Iftu-42/leetcode">
+        <img src="https://img.shields.io/badge/LeetCode_Repo-Iftu--42%2Fleetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a name="connect"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&section=header&text=05%20%2F%20LET'S%20CONNECT&fontSize=15&fontColor=38BDF8&fontAlign=13&fontAlignY=52" width="100%" alt="05 Connect" />
+
+<br/>
+
+<div align="center">
+
+Whether you want to collaborate on **visual design**, **technical documentation**, **educational projects**, or **web development**, feel free to reach out.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/iftu-chala-14b013318/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Iftu-42">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://t.me/ielts_ethiopia">
+  <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
+</a>
+
+<br/><br/>
+
+<!-- Website Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,100:1E293B&height=70&section=footer&text=Clarity%20in%20design.%20Structure%20in%20documentation.%20Purpose%20in%20teaching.&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" alt="Footer Banner" />
+
+</div>
