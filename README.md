@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Sharp Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&section=header&text=IFTU%20(ZUHAL)%20CHALA&fontSize=34&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Engineering%20%C2%B7%20Requirements%20Analysis%20%C2%B7%20Visual%20Design&descSize=15&descColor=38BDF8&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&section=header&text=IFTU%20(ZUHAL)%20CHALA&fontSize=34&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Engineering%20%C2%B7%20IELTS%20Coach%20%C2%B7%20Visual%20Design&descSize=15&descColor=38BDF8&descAlignY=68&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <br/>
 
 <a href="https://github.com/Iftu-42">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=5000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+at+the+intersection+of+logic+and+creativity.;Researching+problems+deeply+before+writing+code.;Turning+complex+requirements+into+clean+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4800&pause=1800&color=38BDF8&center=true&vCenter=true&width=740&lines=Bridging+the+gap+between+education+and+technology.;Founder+%26+Trainer+at+IELTS+Ethiopia.;Researching+systems+deeply+before+writing+code.;Crafting+clean+interfaces+and+visual+designs." alt="Typing SVG" />
 </a>
 
 </div>
