@@ -33,7 +33,7 @@
 
 <a name="about"></a>
 <img src="https://img.shields.io/badge/01_%2F_ABOUT_ME-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="01 About Me" />
-<br/><br/>
+<br/>
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -70,7 +70,7 @@
 <a name="what-i-do"></a>
 <img src="https://img.shields.io/badge/02_%2F_WHAT_I_DO_(CORE_STRENGTHS)-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="02 What I Do" />
 
-<br/><br/>
+<br/>
 
 <table width="100%">
   <tr>
@@ -108,7 +108,7 @@
 <a name="toolkit"></a>
 <img src="https://img.shields.io/badge/03_%2F_CREATIVE_%26_TECHNICAL_TOOLKIT-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="03 Toolkit" />
 
-<br/><br/>
+<br/>
 
 <table width="100%">
   <tr>
@@ -157,7 +157,7 @@
 <a name="problem-solving"></a>
 <img src="https://img.shields.io/badge/04_%2F_PROBLEM_SOLVING_%26_ALGORITHMS-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="04 Problem Solving" />
 
-<br/><br/>
+<br/>
 
 <table width="100%">
   <tr>
@@ -178,7 +178,7 @@
 <a name="connect"></a>
 <img src="https://img.shields.io/badge/05_%2F_LET'S_CONNECT-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="05 Connect" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -196,7 +196,7 @@ Whether you want to collaborate on **visual design**, **technical documentation*
   <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Reliable Footer -->
 <sub><strong>Clarity in design · Structure in documentation · Purpose in teaching</strong></sub>
