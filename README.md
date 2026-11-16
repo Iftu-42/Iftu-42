@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/Iftu-42">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+at+the+intersection+of+logic+and+creativity.;Researching+problems+deeply+before+writing+code.;Turning+complex+requirements+into+clean+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=5000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+at+the+intersection+of+logic+and+creativity.;Researching+problems+deeply+before+writing+code.;Turning+complex+requirements+into+clean+products." alt="Typing SVG" />
 </a>
 
 </div>
