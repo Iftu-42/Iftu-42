@@ -110,40 +110,7 @@ Outside of university and coding, I run **IELTS Ethiopia**, where I teach and bu
 
 ---
 
-### `04 /` Engineering workflow & problem solving
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <strong>01. Discovery</strong><br/>
-      <sub>User & domain research</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <strong>02. Specification</strong><br/>
-      <sub>SRS, edge cases & UML</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <strong>03. Implementation</strong><br/>
-      <sub>Clean, modular code</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <strong>04. Iteration</strong><br/>
-      <sub>Testing & refinement</sub>
-    </td>
-  </tr>
-</table>
-
-Alongside system design, I sharpen my algorithmic thinking and problem decomposition by documenting my daily solutions in Python and C++.
-
-<p align="left">
-  <a href="https://github.com/Iftu-42/leetcode">
-    <img src="https://img.shields.io/badge/Explore%20My%20LeetCode%20Repository-Iftu--42%2Fleetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Repository"/>
-  </a>
-</p>
-
----
-
-### `05 /` Connect
+### `04 /` Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iftu-chala-14b013318/">
