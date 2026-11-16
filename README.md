@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Website Hero Header (100% Reliable) -->
-<br/>
-<h1>IFTU (ZUHAL) CHALA</h1>
-<img src="https://img.shields.io/badge/VISUAL_DESIGNER_%C2%B7_TECHNICAL_DOCUMENTER_%C2%B7_IELTS_TRAINER_%C2%B7_SOFTWARE_ENGINEER-0F172A?style=for-the-badge&labelColor=38BDF8" alt="Roles"/>
+<!-- Dark Navy & Sky-Blue Intro Header Banner -->
+<img src="https://img.shields.io/badge/IFTU_(ZUHAL)_CHALA-Visual_Designer_%C2%B7_Technical_Documenter_%C2%B7_IELTS_Trainer_%C2%B7_Software_Engineer-0F172A?style=for-the-badge&labelColor=1E293B" width="100%" alt="Iftu Chala Header Banner" />
 
 <br/><br/>
 
@@ -26,9 +24,7 @@
 ---
 
 <a name="about"></a>
-<img src="https://img.shields.io/badge/01_%2F_ABOUT_ME-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="01 About Me" />
-
-<br/><br/>
+### `01 /` ABOUT ME
 
 <table width="100%">
   <tr>
@@ -64,9 +60,7 @@
 ---
 
 <a name="what-i-do"></a>
-<img src="https://img.shields.io/badge/02_%2F_WHAT_I_DO_(CORE_STRENGTHS)-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="02 What I Do" />
-
-<br/><br/>
+### `02 /` WHAT I DO
 
 <table width="100%">
   <tr>
@@ -102,9 +96,7 @@
 ---
 
 <a name="toolkit"></a>
-<img src="https://img.shields.io/badge/03_%2F_CREATIVE_%26_TECHNICAL_TOOLKIT-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="03 Toolkit" />
-
-<br/><br/>
+### `03 /` CREATIVE & TECHNICAL TOOLKIT
 
 <table width="100%">
   <tr>
@@ -151,9 +143,7 @@
 ---
 
 <a name="problem-solving"></a>
-<img src="https://img.shields.io/badge/04_%2F_PROBLEM_SOLVING_%26_ALGORITHMS-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="04 Problem Solving" />
-
-<br/><br/>
+### `04 /` PROBLEM SOLVING & ALGORITHMS
 
 <table width="100%">
   <tr>
@@ -172,9 +162,7 @@
 ---
 
 <a name="connect"></a>
-<img src="https://img.shields.io/badge/05_%2F_LET'S_CONNECT-0F172A?style=for-the-badge&labelColor=38BDF8" height="30" alt="05 Connect" />
-
-<br/><br/>
+### `05 /` LET'S CONNECT
 
 <div align="center">
 
@@ -188,13 +176,12 @@ Whether you want to collaborate on **visual design**, **technical documentation*
 <a href="https://github.com/Iftu-42">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://t.me/ielts_ethiopia">
+<a href="https://t.me/ielts_ethiopia1">
   <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
 </a>
 
 <br/><br/>
 
-<!-- Reliable Footer -->
 <sub><strong>Clarity in design · Structure in documentation · Purpose in teaching</strong></sub>
 
 </div>
