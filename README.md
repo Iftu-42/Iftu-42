@@ -1,7 +1,22 @@
+
 <div align="center">
 
-<!-- Clean Navy-Blue Hero Banner -->
-<img src="./header.svg" width="100%" alt="Iftu (Zuhal) Chala" />
+<!-- Navy Blue Hero Section -->
+<table width="100%" bgcolor="#0F172A">
+  <tr>
+    <td align="center" height="230">
+      <br/>
+      <h1>
+        <font color="#FFFFFF" size="7">
+          <strong>IFTU (ZUHAL) CHALA</strong>
+        </font>
+      </h1>
+      <br/>
+      <img src="./header.svg" width="100%" alt="Iftu Zuhal Chala" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -20,6 +35,7 @@
 </a>
 
 </div>
+
 
 <a name="about"></a>
 ### `01 /` ABOUT ME
