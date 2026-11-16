@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dark Navy & Sky-Blue Intro Header Banner -->
-<img src="https://img.shields.io/badge/IFTU_(ZUHAL)_CHALA-Visual_Designer_%C2%B7_Technical_Documenter_%C2%B7_IELTS_Trainer_%C2%B7_Software_Engineer-0F172A?style=for-the-badge&labelColor=1E293B" width="100%" alt="Iftu Chala Header Banner" />
+<!-- Clean Navy-Blue Hero Banner -->
+<img src="./header.svg" width="100%" alt="Iftu (Zuhal) Chala" />
 
 <br/><br/>
 
@@ -20,8 +20,6 @@
 </a>
 
 </div>
-
----
 
 <a name="about"></a>
 ### `01 /` ABOUT ME
