@@ -1,12 +1,17 @@
 <div align="center">
 
-# IFTU (ZUHAL) CHALA
-**SOFTWARE ENGINEERING · WEB DEVELOPMENT · VISUAL DESIGN**
+<!-- Animated Minimalist Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=140&section=header&text=IFTU%20(ZUHAL)%20CHALA&fontSize=36&fontColor=F8FAFC&animation=fadeIn&fontAlignY=45" width="100%" />
 
-*Building at the intersection of logic and creativity.*
+<!-- Animated Typing Tagline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEERING+%C2%B7+SYSTEM+DESIGN+%C2%B7+VISUAL+DESIGN;RESEARCH+FIRST.+ARCHITECT+CLEARLY.+CODE+THOUGHTFULLY.;BUILDING+AT+THE+INTERSECTION+OF+LOGIC+AND+CREATIVITY." alt="Typing SVG" />
+</a>
 
-I enjoy understanding problems, exploring ideas, and turning them into thoughtful digital experiences.  
-**Think clearly. Build thoughtfully. Create with purpose.**
+<br/>
+
+I enjoy understanding problems deeply, structuring requirements before writing a single line of code, and turning ideas into thoughtful digital experiences.  
+**Think clearly. Document thoroughly. Create with purpose.**
 
 </div>
 
@@ -14,50 +19,50 @@ I enjoy understanding problems, exploring ideas, and turning them into thoughtfu
 
 ### `01 /` A little about me
 
-I'm a **Software Engineering student** interested in how technology, design, and problem-solving come together. I enjoy both sides of building digital products: the underlying logic that makes things work and the visual decisions that shape how people experience them.
+I'm a **Software Engineering student** fascinated by how rigorous research, clean system architecture, and visual design come together. Before jumping into implementation, I prioritize **problem identification, feasibility research, and writing clear Software Requirements Specifications (SRS)**—ensuring every feature solves a real need.
 
-Beyond development, I'm passionate about education, visual communication, automation, and creating opportunities for people to learn practical skills.
+Beyond software engineering, I am passionate about education, visual storytelling, automation, and empowering people with practical skills.
 
 - 🎓 **Education:** Software Engineering student
+- 📋 **Requirements & Architecture:** Strong in pre-code research, problem discovery, and writing structured **SRS documentation**
 - 💻 **Development:** Focused on web development and software engineering fundamentals
 - 🧠 **Problem Solving:** Practicing algorithms and data structures through LeetCode
 - 📊 **Data:** Exploring data science, Python, and SQL
-- 🎨 **Design:** Exploring graphic design, typography, and interface design
-- 🎬 **Motion & Media:** Interested in motion graphics, short-form animation, and video editing
+- 🎨 **Design & Media:** Graphic design, UI/typography, motion graphics, and short-form video editing
 - ⚙️ **Productivity:** Exploring workflow automation and digital tools
 - 📚 **Leadership:** Founder and Trainer at **IELTS Ethiopia**
 
 ---
 
-### `02 /` What I explore
+### `02 /` How I work & what I explore
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>01 — BUILD</strong><br/>
-      <strong>Web & Software Development</strong><br/><br/>
-      Creating functional, clean, and responsive digital experiences.<br/><br/>
-      <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>Python</code> · <code>C++</code>
+      <strong>01 — RESEARCH & SPECIFY</strong><br/>
+      <strong>SRS & Pre-Code Architecture</strong><br/><br/>
+      Identifying root problems, gathering functional/non-functional requirements, and mapping system flows before coding.<br/><br/>
+      <code>SRS Docs</code> · <code>System Analysis</code> · <code>User Flows</code> · <code>Feasibility Research</code>
     </td>
     <td width="50%" valign="top">
-      <strong>02 — SOLVE</strong><br/>
-      <strong>Problem Solving</strong><br/><br/>
-      Developing logical thinking and approaching challenges systematically.<br/><br/>
-      <code>LeetCode</code> · <code>Data Structures</code> · <code>Algorithms</code> · <code>SQL</code>
+      <strong>02 — BUILD</strong><br/>
+      <strong>Web & Software Development</strong><br/><br/>
+      Translating clear specifications into functional, clean, and responsive digital experiences.<br/><br/>
+      <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>Python</code> · <code>C++</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>03 — ANALYZE</strong><br/>
-      <strong>Data & Exploration</strong><br/><br/>
-      Working with data to discover patterns and communicate clear insights.<br/><br/>
-      <code>Python</code> · <code>SQL</code> · <code>Google Colab</code>
+      <strong>03 — SOLVE & ANALYZE</strong><br/>
+      <strong>Algorithms & Data Exploration</strong><br/><br/>
+      Approaching logic systematically, optimizing solutions, and discovering patterns in data.<br/><br/>
+      <code>LeetCode</code> · <code>DSA</code> · <code>Python</code> · <code>SQL</code> · <code>Google Colab</code>
     </td>
     <td width="50%" valign="top">
-      <strong>04 — CREATE</strong><br/>
-      <strong>Visual & Creative Design</strong><br/><br/>
-      Exploring visual communication, typography, UI design, and branding.<br/><br/>
-      <code>Graphic Design</code> · <code>Figma</code> · <code>Canva</code> · <code>Motion Graphics</code>
+      <strong>04 — CREATE & EDIT</strong><br/>
+      <strong>Visual Design & Video Editing</strong><br/><br/>
+      Crafting compelling visual communication, branding, UI layouts, and dynamic video edits.<br/><br/>
+      <code>Figma</code> · <code>Canva</code> · <code>CapCut</code> · <code>Premiere Pro</code> · <code>Motion</code>
     </td>
   </tr>
 </table>
@@ -74,16 +79,17 @@ Beyond development, I'm passionate about education, visual communication, automa
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Automation, Data & Productivity**  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+**Research, Documentation & Data**  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Design & Creative Tools**  
+**Design & Video Editing**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=bytedance&logoColor=white)
 
 **Development Environment**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -91,19 +97,17 @@ Beyond development, I'm passionate about education, visual communication, automa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Creative Practice**  
-`Motion graphics` · `Short-form animation` · `Video editing` · `Visual storytelling`
+`SRS & Technical Writing` · `Short-form video editing` · `Motion graphics` · `Visual storytelling`
 
 ---
 
-### `04 /` Problem-solving practice
+### `04 /` Problem-solving & engineering mindset
 
-Becoming a better developer requires more than learning syntax—it requires recognizing patterns, breaking down complex problems, and reasoning through unfamiliar challenges. I use algorithmic exercises to sharpen these fundamentals daily.
+Good software starts long before opening an IDE. Whether I'm drafting an **SRS document** for a full application or breaking down an algorithmic challenge, I rely on structured analysis:
 
-**Current areas of focus:**
-- Data structures & algorithms
-- Problem decomposition & complexity analysis
-- Python programming
-- SQL queries & relational database fundamentals
+- **Pre-Code Discovery:** Identifying edge cases, user requirements, and system constraints early
+- **Algorithmic Thinking:** Data structures, problem decomposition, and complexity analysis
+- **Data & Queries:** Python scripting and SQL relational database fundamentals
 
 > 🔗 **[Explore my LeetCode profile](https://leetcode.com/)** *(replace with your direct LeetCode username URL)*
 
@@ -111,13 +115,13 @@ Becoming a better developer requires more than learning syntax—it requires rec
 
 ### `05 /` Beyond the code
 
-Technology is only one part of what drives me. Through educational initiatives, design work, and collaboration, I've developed a strong interest in making information more understandable and learning more accessible—especially at the intersection of **education, communication, and technology**.
+Technology is only one part of what drives me. Through educational initiatives, design work, and collaboration, I've developed a strong interest in making complex information easy to understand and learning more accessible—especially at the intersection of **education, communication, and technology**.
 
 ---
 
 ### `06 /` Let's connect
 
-I'm always open to exchanging ideas and connecting with people working across technology, design, education, and creative problem-solving.
+I'm always open to exchanging ideas and connecting with people working across software engineering, product research, design, and education.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iftu-chala-14b013318/">
@@ -126,13 +130,10 @@ I'm always open to exchanging ideas and connecting with people working across te
   <a href="https://github.com/Iftu-42">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://t.me/ielts_ethiopia">
+  <a href="https://t.me/ielts_ethiopia1">
     <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Explore-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
   </a>
 </p>
 
-<br/>
-
-<div align="center">
-  <em>Learning is continuous. Building is iterative. There is always something more to understand.</em>
-</div>
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=100&section=footer&text=Learning%20is%20continuous.%20Building%20is%20iterative.&fontSize=16&fontColor=94A3B8&animation=twinkling&fontAlignY=65" width="100%" />
