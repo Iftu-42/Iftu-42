@@ -1,115 +1,163 @@
-# Iftu (Zuhal) Chala
+&#x20;\<div align="center">
 
-### Software Engineering Student · Developer · Creative Thinker
+# IFTU (ZUHAL) CHALA
 
-I like exploring the space where **technology, design, and problem-solving meet.**
+**SOFTWARE ENGINEERING · WEB DEVELOPMENT · VISUAL DESIGN**
 
-For me, building something goes beyond writing code. It starts with understanding a problem, figuring out who it affects, exploring possible solutions, and turning an idea into something useful.
+*Building at the intersection of logic and creativity.*
 
-I'm interested in creating digital experiences that are functional, thoughtful, and visually engaging.
+I enjoy understanding problems, exploring ideas, and turning them into thoughtful digital experiences.
 
----
+**Think clearly. Build thoughtfully. Create with purpose.**
 
-## A little about me
-
-- 🎓 Studying Software Engineering.
-- 💻 Exploring web development, software fundamentals, and application development.
-- 🧩 Practising problem-solving through LeetCode and programming exercises.
-- 📊 Learning about data science, SQL, and practical data applications.
-- 🎨 Interested in graphic design, typography, visual communication, and interface design.
-- 🎬 Exploring motion graphics, short-form animation, and video editing.
-- ⚙️ Interested in automation and using technology to simplify everyday processes.
-- 📚 Founder and Trainer at [IELTS Ethiopia](https://t.me/ielts_ethiopia1).
+\</div>
 
 ---
 
-## How I approach building
+## 01 / A little about me
 
-I enjoy understanding the process behind a product, not just its final appearance.
+I'm a Software Engineering student interested in how technology, design, and problem-solving come together.
 
-| Stage | What matters to me |
-|---|---|
-| Understand | Identify the actual problem and who experiences it. |
-| Plan | Define requirements and organize the work. |
-| Design | Think about usability, structure, and visual clarity. |
-| Build | Turn ideas into functional solutions. |
-| Test | Find problems, experiment, and improve. |
-| Document | Explain decisions, implementation, and outcomes. |
+I enjoy both sides of building digital products: the logic behind how things work and the visual decisions that shape how people experience them.
 
----
+Beyond development, I'm interested in education, visual communication, automation, and creating opportunities for people to learn practical skills.
 
-## Learning & Problem Solving
-
-I'm interested in developing strong fundamentals rather than relying entirely on tools and frameworks.
-
-- **LeetCode:** Algorithmic thinking, data structures, and problem-solving.
-- **Python:** Programming fundamentals and data manipulation.
-- **SQL:** Database querying and relational data.
-- **JavaScript:** Browser functionality, interactivity, and application logic.
-- **Data Science:** Data exploration, analysis, and practical applications.
-- **Software Engineering:** Requirements, documentation, version control, and testing.
-
-I value understanding why something works, not just getting it to work.
+- 🎓 Software Engineering student.
+- 💻 Interested in web development and software engineering fundamentals.
+- 🧠 Practising algorithms and problem-solving through LeetCode.
+- 📊 Exploring data science, Python, and SQL.
+- 🎨 Exploring graphic design, typography, and interface design.
+- 🎬 Interested in motion graphics, short-form animation, and video editing.
+- ⚙️ Exploring automation and digital productivity.
+- 📚 Founder and Trainer at [IELTS Ethiopia](https://t.me/ielts_ethiopia).
 
 ---
 
-## Technologies, Tools & Creative Practice
+## 02 / What I explore
 
-### Development & Programming
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### `01` — BUILD
 
-### Automation, Data & Productivity
+**Web & Software Development**
 
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+Creating functional and responsive digital experiences.
 
-### Design & Visual Communication
+HTML · CSS · JavaScript · Python · C++
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white)
+\</td>
+\<td width="50%" valign="top">
 
-### Motion & Digital Content
+### `02` — SOLVE
 
-- Motion graphics and short-form animation.
-- Animated presentations and visual storytelling.
-- Video editing and short-form educational content.
-- Social media visuals and digital communication.
+**Problem Solving**
 
-### Development Environment & Version Control
+Developing logical thinking and approaching challenges systematically.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+LeetCode · Data Structures · Algorithms · SQL
 
----
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
 
-## Beyond the Code
+### `03` — ANALYZE
 
-I also enjoy educational initiatives, creative communication, and helping people develop practical skills.
+**Data & Exploration**
 
-Through IELTS Ethiopia and my involvement in CSEC, I've become interested in how technology, communication, and education can complement one another.
+Learning how to work with data, discover patterns, and communicate insights.
 
-I believe technical ability matters, but being able to communicate an idea, explain a decision, document a process, and collaborate with people matters just as much.
+Python · SQL · Google Colab
 
----
+\</td>
+\<td width="50%" valign="top">
 
-## Find Me Elsewhere
+### `04` — CREATE
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/iftu-chala-14b013318/)
-- 🧩 [LeetCode](https://leetcode.com/u/IFTU42/)
-- 📚 [IELTS Ethiopia](https://t.me/ielts_ethiopia1)
-- 💻 [GitHub](https://github.com/Iftu-42)
+**Visual & Creative Design**
+
+Exploring visual communication, typography, interface design, and branding.
+
+Graphic Design · Figma · Canva · Motion Graphics
+
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<p align="center">
-  <b>Think clearly. Build thoughtfully. Create with purpose.</b>
-</p>
+## 03 / My toolbox
+
+**Development & Programming**
+
+
+
+
+
+\
+
+
+**Automation, Data & Productivity**
+
+
+\
+
+
+**Design & Creative Tools**
+
+
+\
+
+
+**Development Environment**
+
+
+\
+
+
+**Creative Practice**
+
+Motion graphics · Short-form animation · Video editing · Visual storytelling
+
+---
+
+## 04 / Problem-solving practice
+
+I believe becoming a better developer requires more than learning syntax. It requires understanding patterns, breaking down problems, and developing the ability to reason through unfamiliar challenges.
+
+I use programming exercises and algorithmic challenges to strengthen these skills.
+
+**Current areas of practice:**
+
+- Data structures and algorithms.
+- Problem decomposition.
+- Python programming.
+- SQL queries and database fundamentals.
+- Logical and analytical thinking.
+
+[Explore LeetCode](https://leetcode.com/)
+
+---
+
+## 05 / Beyond the code
+
+Technology is only one part of what interests me.
+
+Through educational initiatives, design work, and collaboration, I've developed an interest in making information more understandable and learning more accessible.
+
+I'm particularly interested in the relationship between education, communication, and technology.
+
+I also enjoy exploring ideas, experimenting with visual styles, and learning things outside my primary field.
+
+---
+
+## 06 / Let's connect
+
+I'm always interested in exchanging ideas and connecting with people working across technology, design, education, and creative problem-solving.
+
+\<p align="center"> \<a href="[https://www.linkedin.com/in/iftu-chala-14b013318/](https://www.linkedin.com/in/iftu-chala-14b013318/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/> \</a> \<a href="[https://github.com/Iftu-42](https://github.com/Iftu-42)"> \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/> \</a> \<a href="[https://t.me/ielts_ethiopia](https://t.me/ielts_ethiopia)"> \<img src="[https://img.shields.io/badge/IELTS%20Ethiopia-Explore-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/IELTS%20Ethiopia-Explore-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)" alt="IELTS Ethiopia"/> \</a> \</p>
+
+\<div align="center">
+
+*Learning is continuous. Building is iterative. There is always something more to understand.*
+
+\</div>
