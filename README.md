@@ -184,7 +184,7 @@ Whether you want to collaborate on **visual design**, **technical documentation*
 <a href="https://github.com/Iftu-42">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://t.me/ielts_ethiopia">
+<a href="https://t.me/ielts_ethiopia1">
   <img src="https://img.shields.io/badge/IELTS%20Ethiopia-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="IELTS Ethiopia"/>
 </a>
 
